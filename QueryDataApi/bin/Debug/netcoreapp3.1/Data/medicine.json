@@ -1,0 +1,20 @@
+{
+  "medicines": [
+    {
+      "name": "citrizine",
+      "notes": "citrizine",
+      "expiryDate": "27-11-2021",
+      "quantity": "10",
+      "price": "10.50",
+      "brand": "super"
+    },
+    {
+      "name": "paracetamol",
+      "notes": "paracetamol",
+      "expiryDate": "28-11-2021",
+      "quantity": "10",
+      "price": "10.50",
+      "brand": "super"
+    }
+  ]
+}

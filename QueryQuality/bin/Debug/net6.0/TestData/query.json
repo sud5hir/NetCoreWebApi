@@ -1,0 +1,36 @@
+{
+  "QueryList": [
+    {
+      "Id":"1",
+      "QueryRef": "1",
+      "QueryType": "General Query",
+      "RaisedBy": "Raju",
+      "RaisedOn": "01 Aug 2021",
+      "Status": "Open"
+    },
+    {
+      "Id": "2",
+      "QueryRef": "2",
+      "QueryType": "Transactional Query",
+      "RaisedBy": "Raju",
+      "RaisedOn": "05 Aug 2021",
+      "Status": "Open"
+    },
+    {
+      "Id": "3",
+      "QueryRef": "3",
+      "QueryType": "Transactional Query",
+      "RaisedBy": "Ram",
+      "RaisedOn": "15 Aug 2021",
+      "Status": "Closed"
+    },
+    {
+      "Id": "4",
+      "QueryRef": "4",
+      "QueryType": "General Query",
+      "RaisedBy": "Monu",
+      "RaisedOn": "14 Aug 2021",
+      "Status": "Open"
+    }
+  ]
+}

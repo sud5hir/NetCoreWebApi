@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d9a49cf1-f08c-4ca6-ab96-cbed8c766c8e": {
+      "ProjectGuid": "d9a49cf1-f08c-4ca6-ab96-cbed8c766c8e",
+      "DisplayName": "QueryDataApi",
+      "ColorIndex": 0
+    },
+    "0d29cf4e-1e90-4fb8-bad6-43937a5be2c4": {
+      "ProjectGuid": "0d29cf4e-1e90-4fb8-bad6-43937a5be2c4",
+      "DisplayName": "QueryTestApi",
+      "ColorIndex": 1
+    },
+    "627f90d1-a62f-49b0-bfb6-05408f47bb98": {
+      "ProjectGuid": "627f90d1-a62f-49b0-bfb6-05408f47bb98",
+      "DisplayName": "QueryTestQuality",
+      "ColorIndex": 2
+    },
+    "fc7db385-2084-42ea-990c-5e3e62985542": {
+      "ProjectGuid": "fc7db385-2084-42ea-990c-5e3e62985542",
+      "DisplayName": "QueryTestApi",
+      "ColorIndex": 3
+    },
+    "30a0d6ca-7a3a-4f1c-932f-442ddae4ab98": {
+      "ProjectGuid": "30a0d6ca-7a3a-4f1c-932f-442ddae4ab98",
+      "DisplayName": "QueryTestQuality",
+      "ColorIndex": 4
+    },
+    "df13c285-b0b4-44bd-9b55-0e111eb3be66": {
+      "ProjectGuid": "df13c285-b0b4-44bd-9b55-0e111eb3be66",
+      "DisplayName": "QueryDataApi",
+      "ColorIndex": 5
+    },
+    "12c6db41-808f-43f1-97fb-6f7cf47d16b1": {
+      "ProjectGuid": "12c6db41-808f-43f1-97fb-6f7cf47d16b1",
+      "DisplayName": "LoginApi",
+      "ColorIndex": 6
+    },
+    "f88940bb-ed08-4b7a-bf84-e82df99db044": {
+      "ProjectGuid": "f88940bb-ed08-4b7a-bf84-e82df99db044",
+      "DisplayName": "OAuthnet5",
+      "ColorIndex": 7
+    },
+    "132cea66-465a-482a-9d41-61805f49e2ca": {
+      "ProjectGuid": "132cea66-465a-482a-9d41-61805f49e2ca",
+      "DisplayName": "OauthWebApp",
+      "ColorIndex": 8
+    },
+    "82c9ffd8-b634-4277-a5e7-2fe4137d1b53": {
+      "ProjectGuid": "82c9ffd8-b634-4277-a5e7-2fe4137d1b53",
+      "DisplayName": "LinkdinAuth",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

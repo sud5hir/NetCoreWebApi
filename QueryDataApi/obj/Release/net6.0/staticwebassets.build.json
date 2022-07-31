@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E3qUAyEhlKS6LxUNH9gnbVaBLxVnhRx8Hdq9AgABOrE=",
+  "Source": "QueryDataApi",
+  "BasePath": "_content/QueryDataApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "QueryDataApi\\QueryDataApi.sln",
+    "projects": [
+      "..\\QueryQuality\\QueryTestQuality.csproj",
+      "..\\query-api-tests\\QueryTestApi.csproj",
+      "QueryDataApi.csproj"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARL+4jaebTE+7+Q/HBN0GdwAAAAACAAAAAAAQZgAAAAEAACAAAAAfFyq+FFTGH5eqUY1g1jXPks3Y+jUfD9MsmLf7/+Zp8QAAAAAOgAAAAAIAACAAAADOT2Qy3BdH5DVtQChAJpShPgW8QkgmAsBngoMEw7sHE4AAAABUkapyqI95vPHoYzPnpqfiYFmOR35NaCOlqCY2WsnQuiO7NWHECMsJZcElnJu6BGO6V/REDHzdguTc+cL9h6TphlcX7D5JVCXlJdLvh17lLtraWEH12YyXKxeZM3DW3mo8USgLBB8lL21FfpK8iuX3IwW23PrYBLE4cg+ZY3oFqEAAAAARGR/nnBcrOb9dgQ9zlNQSSEWMzZodq+65dnDjj3A46Zy0N9mK0PSGFz0mjmQtxlM9h6JdB+TKNAqGv2CizOwl</EncryptedPassword>
+    <History>True|2021-12-16T04:52:33.4564396Z;True|2021-12-16T10:12:25.1779793+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=tcp:medicine1dbserver.database.windows.net,1433;Initial Catalog=MedicineProject_db;User Id=sa@medicine1dbserver;Password=sa" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:medicineappprojectdbserversudhir.database.windows.net,1433;Initial Catalog=MedicineAppProject_db;User Id=Ca12345678@medicineappprojectdbserversudhir;Password=Sa12345678" />
+  </ItemGroup>
+</Project>

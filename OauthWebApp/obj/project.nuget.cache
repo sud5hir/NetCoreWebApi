@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "znTU4Mgs0RKh+hlW8VzCi9heMP34s9TE53K782BSi6FG8T79JogdzMO1Z49yc60gqckoMi7Ey3dddPk8ooKKoA==",
+  "success": false,
+  "projectFilePath": "D:\\Sudhir_Resume\\Sudhir_learn\\WebApi\\OauthWebApp\\OauthWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\6.0.5\\microsoft.aspnetcore.authentication.google.6.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Authentication.Google 6.0.5 is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Package Microsoft.AspNetCore.Authentication.Google 6.0.5 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Google",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

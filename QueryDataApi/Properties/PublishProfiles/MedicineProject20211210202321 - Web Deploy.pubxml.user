@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARL+4jaebTE+7+Q/HBN0GdwAAAAACAAAAAAAQZgAAAAEAACAAAAC7pOEaKfespGkf8Md3Bb4pqmMHrUPFhlc30+h9xVnLqAAAAAAOgAAAAAIAACAAAAC3mBmfu0/iyn+Upns7pwqYKDyjK2XFj87EFKW7WO91poAAAAAkRuKEOS6Dw4JtT5C+ZUHj4qSXj7cRRrr3fHEKV5l2ejt4I8W++XZ8OXW+M2/AFJhvwcBIiwQl0vqY07quwa4ZjldsCF373msEK1y5cFLpHUAFejt1UUvSvhBUHsrnhLLebL4Seta1NSVKZRPv/Th+iqw5TAsK4aWUB5GBnWarQUAAAADSVh+Gs8jcXBCoxwVbXenSnVfOCMOrwihExLhBY47HNpemahSMEoQ5RNs2tlkqUfgq/YDy4oXZBFRTLtUvoSn7</EncryptedPassword>
+    <History>False|2021-12-13T15:38:09.0278312Z;False|2021-12-13T21:06:07.1944554+05:30;False|2021-12-13T20:59:48.5987594+05:30;True|2021-12-13T20:28:58.9561407+05:30;True|2021-12-13T20:25:31.8611025+05:30;True|2021-12-10T20:31:36.1804874+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebApplication1.Dal.MedicineDbContext">
+      <Value>Data Source=tcp:medicine1dbserver.database.windows.net,1433%3bInitial Catalog=MedicineProject_db%3bUser Id=sa%40medicine1dbserver%3bPassword=sa</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

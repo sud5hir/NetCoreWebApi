@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75b34a31-ede0-43cb-aa27-45a2a27aec88": {
+      "ProjectGuid": "75b34a31-ede0-43cb-aa27-45a2a27aec88",
+      "DisplayName": "LoginApi",
+      "ColorIndex": 0
+    },
+    "4bd9ea3d-3631-4c26-be12-8df7278e6b3d": {
+      "ProjectGuid": "4bd9ea3d-3631-4c26-be12-8df7278e6b3d",
+      "DisplayName": "LoginApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
